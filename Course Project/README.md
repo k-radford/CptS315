@@ -1,13 +1,13 @@
 # Trending YouTube Video Attributes & Classifier
 
-## Objective
+### Project Objective
 Identify a data mining task or question, source the data, and develop a method using appropriate data mining algorithms and tools
 
 ## Components
-* Python Program
-* Project Report
+* [Python Program](./final.py)
+* [Project Report](../Course%20Project%20Report.pdf)
 
-## Question
+## Task
 What attributes make a YouTube video popular?
 
 ## Method
@@ -30,8 +30,13 @@ What attributes make a YouTube video popular?
 {
   "video_id": ,
   "title": ,
+  "channel_title": ,
+  "category_id": ,
   "publishedAt": ,
-  "channelId": ,
+  "tags": ,
+  "view_count": ,
+  "likes": ,
+  "dislikes": ,
 }
 ```
 
