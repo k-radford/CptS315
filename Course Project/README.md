@@ -4,7 +4,7 @@
 Identify a data mining task or question, source the data, and develop a method using appropriate data mining algorithms and tools
 
 ## Components
-* [Python Program](./final.py)
+* [Python Program](./courseProject.py)
 * [Project Report](../Course%20Project%20Report.pdf)
 
 ## Task
