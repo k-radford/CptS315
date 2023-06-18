@@ -10,3 +10,6 @@ WSU | Intro to Data Mining | Janardhan Rao Doppa | Spring 2021
 * [HW2](./HW2)
 * [HW3](./HW3)
 * [H4W](./HW4)
+
+## Resources
+[A Course in Machine Learning by Hal Daumé III](http://www.ciml.info)
